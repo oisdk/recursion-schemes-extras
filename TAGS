@@ -1,0 +1,19 @@
+
+./Setup.hs,15
+main main1,2
+
+./src/Data/Functor/Foldable/Extras.hs,159
+module Data.Functor.Foldable.Extras Data.Functor.Foldable.Extras2,3
+import import5,6
+cataM cataM13,14
+anaM anaM21,22
+zipo zipo32,33
+zipo zipo37,38
+
+./src/Data/Functor/Foldable/flycheck_Extras.hs,159
+module Data.Functor.Foldable.Extras Data.Functor.Foldable.Extras2,3
+import import5,6
+cataM cataM13,14
+anaM anaM21,22
+zipo zipo32,33
+zipo zipo37,38
