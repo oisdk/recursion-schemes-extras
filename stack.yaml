@@ -1,9 +1,7 @@
-resolver: lts-5.16
+resolver: lts-7.18
 packages:
 - '.'
-- location:
-    git: https://github.com/ekmett/recursion-schemes.git
-    commit: cf42f2ace35ca09a8ab489538e9493f8333bc0ec
-extra-deps: []
+extra-deps:
+  - recursion-schemes-5.0.1
 flags: {}
 extra-package-dbs: []
